@@ -1,5 +1,7 @@
 # AI Content Generator Dashboard
 
+[Live Demo](https://ai-content-generator-two-weld.vercel.app/)
+
 This is a code bundle for AI Content Generator Dashboard. The original project is available at https://www.figma.com/design/97GIAOSpOVZda1zfbKNlNR/AI-Content-Generator-Dashboard.
 
 ## Technologies Used
